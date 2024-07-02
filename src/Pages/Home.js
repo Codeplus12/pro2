@@ -6,7 +6,7 @@ export default function Home() {
        {/* home start================================== */}
  <div className="col-md-12 bi" id='Home'>
  <div className="bg">
-   <nav className="navbar navbar-expand-sm  navbar-dark">
+   <nav className="navbar navbar-expand-sm navbar-dark">
      <div className="container-fluid px-5">
        <a className="navbar-brand" href="#Home">
          <img

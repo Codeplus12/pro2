@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bi{
+  background-image: url(img/bg-01-free-img.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+ 
+}
+.bi1{
+  background-image: url(img/bg-heading-01-free-img.png);
+  background-position: center;
+  background-size:  100% 100%;
+  
+  background-repeat: no-repeat;
+  height: 130px;
+  width: 50%;
+ 
+}
+.bi2{
+  background-image: url(img/bg-heading-01-free-img.png);
+  background-position: center;
+  background-size:  100% 100%;
+  
+  background-repeat: no-repeat;
+  height: 80px;
+  width: 50%;
+ 
+}
+.bi2a{
+  background-image: url(img/bg-heading-01-free-img.png);
+  background-position: center;
+  background-size:  100% 100%;
+  
+  background-repeat: no-repeat;
+  height: 80px;
+  width: 34%;
+ 
+}
+.bi2b{
+  background-image: url(img/bg-heading-01-free-img.png);
+  background-position: center;
+  background-size:  100% 100%;
+  
+  background-repeat: no-repeat;
+  height: 80px;
+  width: 34%;
+ 
+}
+.bi3{
+  background-image: url(img/bg-02-free-img.jpg);
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+ 
+ 
+}
+.bi4{
+  background-image: url(img/bg-06-free-img.jpg);
+  background-position: center;
+  background-size:cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  
+ 
+ 
+}
+.bi5{
+  background-image: url(img/bg-heading-01-free-img.png);
+  background-position: center;
+  background-size:  100% 100%;
+  
+  background-repeat: no-repeat;
+  height: 65px;
+  width: 50%;
+ 
+}
+
+
+@media(max-width:500px){
+
+  .bi1{
+    background-image: url(img/bg-heading-01-free-img.png);
+    background-position: center;
+    background-size:  100% 100%;
+    
+    background-repeat: no-repeat;
+    height: 50px;
+    width: 50%;
+   
+  }
+  .bi2{
+    background-image: url(img/bg-heading-01-free-img.png);
+    background-position: center;
+    background-size:  100% 100%;
+    
+    background-repeat: no-repeat;
+    height: 80px;
+    width: 62%;
+   
+  }
+  .bi2a{
+    background-image: url(img/bg-heading-01-free-img.png);
+    background-position: center;
+    background-size:  100% 100%;
+    
+    background-repeat: no-repeat;
+    height: 55px;
+    width: 70%;
+   
+  }
+  .bi2b{
+    background-image: url(img/bg-heading-01-free-img.png);
+    background-position: center;
+    background-size:  100% 100%;
+    
+    background-repeat: no-repeat;
+    height: 55px;
+    width: 70%;
+   
+  }
+}
